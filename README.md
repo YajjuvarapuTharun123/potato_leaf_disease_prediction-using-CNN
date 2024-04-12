@@ -1,1 +1,1 @@
-# potato_leaf_disease_prediction-using-CNN
+Development of a deep learning project in the field of agriculture We will create a simple image classification model that will categorize Potato Leaf Disease using a simple convolutional neural network architecture. We'll start by collecting the data, and then we'll build models to explain it.
