@@ -1,0 +1,1 @@
+# potato_leaf_disease_prediction-using-CNN
